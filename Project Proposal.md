@@ -1,13 +1,27 @@
-## Project Proposal
+## **Project Proposal**
 
-### Project Title
+### **Project Title**
 
-### Team Members 
+* tbd
 
-### Research Questions to Answer
+### **Team Members** 
 
-### Datasets to be Used
+* Jason Wang, Kellen Quinn, Ashley Patricia Parra (AP)
 
-### Project Description/Outline
+### **Research Questions to Answer**
 
-### Rough Breakdown of Tasks
+* tbd
+
+### **Datasets to be Used**
+
+* tbd
+
+### **Project Description/Outline**
+
+* tbd
+
+### **Rough Breakdown of Tasks**
+
+* Jason: 
+* Kellen: 
+* Ashley: 
