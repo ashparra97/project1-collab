@@ -1,0 +1,513 @@
+﻿,POSTCODE,percentOver18,CategoryOver18,PercentOver65,CategoryOver65,NumberOfPeopleVaccinated,NumberOfPeopleVaccinatedCategory
+0,85003,46.2,26-55,74.49,56-75,4898,"1,001-5,000"
+1,85004,63.68,56-75,61.45,56-75,4281,"1,001-5,000"
+2,85006,35.85,26-55,54.55,26-55,6780,"5,001-10,000"
+3,85007,41.44,26-55,63.91,56-75,4719,"1,001-5,000"
+4,85008,33.01,26-55,56.27,56-75,14187,"Greater Than 10,000"
+5,85009,23.48,11-25,61.29,56-75,9266,"5,001-10,000"
+6,85012,73.89,56-75,74.5,56-75,4909,"1,001-5,000"
+7,85013,55.13,56-75,55.32,56-75,10529,"Greater Than 10,000"
+8,85014,45.47,26-55,58.68,56-75,10361,"Greater Than 10,000"
+9,85015,32.87,26-55,57.57,56-75,10151,"Greater Than 10,000"
+10,85016,48.76,26-55,60.66,56-75,16304,"Greater Than 10,000"
+11,85017,26.27,26-55,49.93,26-55,7654,"5,001-10,000"
+12,85018,55.96,56-75,67.27,56-75,17279,"Greater Than 10,000"
+13,85019,28.92,26-55,57.68,56-75,5594,"5,001-10,000"
+14,85020,48.6,26-55,65.93,56-75,14540,"Greater Than 10,000"
+15,85021,44.61,26-55,75.44,Greater Than 75,14235,"Greater Than 10,000"
+16,85022,42.15,26-55,68.34,56-75,17919,"Greater Than 10,000"
+17,85023,37.64,26-55,62.64,56-75,10599,"Greater Than 10,000"
+18,85024,44.45,26-55,70.68,56-75,9281,"5,001-10,000"
+19,85027,35.37,26-55,58.09,56-75,10941,"Greater Than 10,000"
+20,85028,60.68,56-75,75.56,Greater Than 75,10624,"Greater Than 10,000"
+21,85029,33.03,26-55,56.96,56-75,11604,"Greater Than 10,000"
+22,85031,25.77,26-55,54.77,26-55,5841,"5,001-10,000"
+23,85032,40.42,26-55,63.92,56-75,22375,"Greater Than 10,000"
+24,85033,28.62,26-55,60.84,56-75,10643,"Greater Than 10,000"
+25,85034,33.61,26-55,57.7,56-75,2249,"1,001-5,000"
+26,85035,25.95,26-55,60.48,56-75,8991,"5,001-10,000"
+27,85037,32.98,26-55,68.28,56-75,11724,"Greater Than 10,000"
+28,85040,30.33,26-55,57.49,56-75,7117,"5,001-10,000"
+29,85041,37.23,26-55,71.42,56-75,16252,"Greater Than 10,000"
+30,85042,41.54,26-55,67.32,56-75,13931,"Greater Than 10,000"
+31,85043,32.34,26-55,67.05,56-75,7618,"5,001-10,000"
+32,85044,52.89,26-55,80.8,Greater Than 75,17744,"Greater Than 10,000"
+33,85045,64.67,56-75,104.21,Greater Than 75,5409,"5,001-10,000"
+34,85048,54.42,26-55,95.16,Greater Than 75,15055,"Greater Than 10,000"
+35,85050,63.43,56-75,95.38,Greater Than 75,15138,"Greater Than 10,000"
+36,85051,31.11,26-55,50.44,26-55,10259,"Greater Than 10,000"
+37,85053,31.42,26-55,58.64,56-75,7829,"5,001-10,000"
+38,85054,59.04,56-75,115.08,Greater Than 75,4134,"1,001-5,000"
+39,85083,51.5,26-55,99.95,Greater Than 75,7984,"5,001-10,000"
+40,85085,53.25,26-55,105.43,Greater Than 75,10348,"Greater Than 10,000"
+41,85086,44.62,26-55,92.26,Greater Than 75,15060,"Greater Than 10,000"
+42,85087,31.95,26-55,60.75,56-75,2794,"1,001-5,000"
+43,85118,71.55,56-75,102.56,Greater Than 75,8766,"5,001-10,000"
+44,85119,42.99,26-55,77.01,Greater Than 75,8329,"5,001-10,000"
+45,85120,42.02,26-55,68.75,56-75,11788,"Greater Than 10,000"
+46,85121,,0,,0,0,0
+47,85122,42.56,26-55,81.68,Greater Than 75,18382,"Greater Than 10,000"
+48,85123,30.53,26-55,57.3,56-75,2718,"1,001-5,000"
+49,85128,32.22,26-55,59.73,56-75,3347,"1,001-5,000"
+50,85131,26.94,26-55,106.08,Greater Than 75,4369,"1,001-5,000"
+51,85132,32.76,26-55,99.06,Greater Than 75,11389,"Greater Than 10,000"
+52,85135,37,26-55,57.41,56-75,205,"11-1,000"
+53,85137,31.96,26-55,47.58,26-55,665,"11-1,000"
+54,85138,41.34,26-55,97.27,Greater Than 75,13355,"Greater Than 10,000"
+55,85139,34.59,26-55,73.08,56-75,4606,"1,001-5,000"
+56,85140,31.45,26-55,101.62,Greater Than 75,11065,"Greater Than 10,000"
+57,85141,29.23,26-55,112.7,Greater Than 75,114,"11-1,000"
+58,85142,38.08,26-55,84.21,Greater Than 75,21234,"Greater Than 10,000"
+59,85143,33.96,26-55,96.06,Greater Than 75,10005,"Greater Than 10,000"
+60,85145,31.09,26-55,105.41,Greater Than 75,691,"11-1,000"
+61,85147,,0,,0,0,0
+62,85172,42.83,26-55,71.76,56-75,419,"11-1,000"
+63,85173,41.48,26-55,67.92,56-75,1049,"1,001-5,000"
+64,85190,0,0,0,0,0,0
+65,85191,30.39,26-55,65.96,56-75,55,"11-1,000"
+66,85192,24.73,11-25,43.73,26-55,477,"11-1,000"
+67,85193,26.27,26-55,56.03,56-75,891,"11-1,000"
+68,85194,45.85,26-55,78.15,Greater Than 75,3162,"1,001-5,000"
+69,85201,35.58,26-55,61.54,56-75,12900,"Greater Than 10,000"
+70,85202,35.72,26-55,66.18,56-75,12169,"Greater Than 10,000"
+71,85203,34.1,26-55,60.36,56-75,9332,"5,001-10,000"
+72,85204,31.29,26-55,58.9,56-75,15439,"Greater Than 10,000"
+73,85205,45.26,26-55,62.55,56-75,16655,"Greater Than 10,000"
+74,85206,53.38,26-55,68.36,56-75,16758,"Greater Than 10,000"
+75,85207,46.68,26-55,85.84,Greater Than 75,18703,"Greater Than 10,000"
+76,85208,38.8,26-55,58.01,56-75,12042,"Greater Than 10,000"
+77,85209,50.45,26-55,84.17,Greater Than 75,18240,"Greater Than 10,000"
+78,85210,31.86,26-55,59.41,56-75,9913,"5,001-10,000"
+79,85212,48.95,26-55,106.13,Greater Than 75,15700,"Greater Than 10,000"
+80,85213,40.28,26-55,62.07,56-75,11194,"Greater Than 10,000"
+81,85215,58.39,56-75,82.07,Greater Than 75,8120,"5,001-10,000"
+82,85224,47.11,26-55,82.58,Greater Than 75,17856,"Greater Than 10,000"
+83,85225,40.48,26-55,72.54,56-75,23377,"Greater Than 10,000"
+84,85226,52.1,26-55,84.51,Greater Than 75,17987,"Greater Than 10,000"
+85,85233,45.49,26-55,78.48,Greater Than 75,15073,"Greater Than 10,000"
+86,85234,41.5,26-55,79.61,Greater Than 75,16998,"Greater Than 10,000"
+87,85248,69.71,56-75,84.3,Greater Than 75,22851,"Greater Than 10,000"
+88,85249,64.03,56-75,100.75,Greater Than 75,21290,"Greater Than 10,000"
+89,85250,58.44,56-75,75.06,Greater Than 75,8727,"5,001-10,000"
+90,85251,48.21,26-55,61.31,56-75,17551,"Greater Than 10,000"
+91,85253,67.98,56-75,81.49,Greater Than 75,10838,"Greater Than 10,000"
+92,85254,57.9,56-75,80.28,Greater Than 75,23222,"Greater Than 10,000"
+93,85255,74.71,56-75,105.84,Greater Than 75,27193,"Greater Than 10,000"
+94,85256,100,Greater Than 75,,0,1-10,1-10
+95,85257,47.51,26-55,61.59,56-75,12488,"Greater Than 10,000"
+96,85258,68.86,56-75,83.6,Greater Than 75,15248,"Greater Than 10,000"
+97,85259,65.37,56-75,94.24,Greater Than 75,13078,"Greater Than 10,000"
+98,85260,56.63,56-75,78.82,Greater Than 75,19758,"Greater Than 10,000"
+99,85262,75.15,Greater Than 75,105.53,Greater Than 75,9071,"5,001-10,000"
+100,85263,100.5,Greater Than 75,112.7,Greater Than 75,2999,"1,001-5,000"
+101,85264,54.63,26-55,80.88,Greater Than 75,122,"11-1,000"
+102,85266,71.72,56-75,102.11,Greater Than 75,7847,"5,001-10,000"
+103,85268,61.02,56-75,86.39,Greater Than 75,13710,"Greater Than 10,000"
+104,85281,35.66,26-55,60.66,56-75,22312,"Greater Than 10,000"
+105,85282,44.65,26-55,64.92,56-75,20732,"Greater Than 10,000"
+106,85283,44.17,26-55,71.34,56-75,16399,"Greater Than 10,000"
+107,85284,64.99,56-75,96.57,Greater Than 75,10451,"Greater Than 10,000"
+108,85286,53.99,26-55,80.89,Greater Than 75,20172,"Greater Than 10,000"
+109,85287,,0,,0,32,"11-1,000"
+110,85295,43.65,26-55,82.29,Greater Than 75,16550,"Greater Than 10,000"
+111,85296,46.53,26-55,90.48,Greater Than 75,16402,"Greater Than 10,000"
+112,85297,46.95,26-55,104.47,Greater Than 75,11544,"Greater Than 10,000"
+113,85298,56.84,56-75,88.02,Greater Than 75,15956,"Greater Than 10,000"
+114,85301,24.56,11-25,46.56,26-55,11074,"Greater Than 10,000"
+115,85302,35.87,26-55,62.44,56-75,11235,"Greater Than 10,000"
+116,85303,34.08,26-55,74.75,56-75,8842,"5,001-10,000"
+117,85304,39.03,26-55,66.28,56-75,8954,"5,001-10,000"
+118,85305,51.74,26-55,105.03,Greater Than 75,5396,"5,001-10,000"
+119,85306,33.73,26-55,60.17,56-75,6821,"5,001-10,000"
+120,85307,30,26-55,66.7,56-75,2435,"1,001-5,000"
+121,85308,45.58,26-55,73.02,56-75,25070,"Greater Than 10,000"
+122,85309,1,1-10,,0,1-10,1-10
+123,85310,46.01,26-55,79.87,Greater Than 75,7461,"5,001-10,000"
+124,85320,17.98,11-25,22.12,11-25,183,"11-1,000"
+125,85321,65.03,56-75,78.09,Greater Than 75,1939,"1,001-5,000"
+126,85322,25.96,26-55,54.31,26-55,158,"11-1,000"
+127,85323,34.09,26-55,70.05,56-75,10253,"Greater Than 10,000"
+128,85324,22.53,11-25,33.16,26-55,667,"11-1,000"
+129,85325,3.87,1-10,3.39,1-10,1-10,1-10
+130,85326,32.35,26-55,75.19,Greater Than 75,16405,"Greater Than 10,000"
+131,85328,0.31,1-10,1.01,1-10,1-10,1-10
+132,85329,30.17,26-55,57.78,56-75,465,"11-1,000"
+133,85331,54.04,26-55,85.92,Greater Than 75,14772,"Greater Than 10,000"
+134,85332,26.25,26-55,37.22,26-55,579,"11-1,000"
+135,85333,31.62,26-55,41.01,26-55,205,"11-1,000"
+136,85334,19.67,11-25,34.92,26-55,130,"11-1,000"
+137,85335,33.81,26-55,79.04,Greater Than 75,8179,"5,001-10,000"
+138,85336,27.08,26-55,38.93,26-55,3062,"1,001-5,000"
+139,85337,38.16,26-55,86.49,Greater Than 75,775,"11-1,000"
+140,85338,48.43,26-55,107.36,Greater Than 75,20492,"Greater Than 10,000"
+141,85339,45.59,26-55,86.45,Greater Than 75,13392,"Greater Than 10,000"
+142,85340,50.68,26-55,93.92,Greater Than 75,12332,"Greater Than 10,000"
+143,85341,296.36,Greater Than 75,388,Greater Than 75,164,"11-1,000"
+144,85342,27.58,26-55,54.42,26-55,389,"11-1,000"
+145,85343,61.98,56-75,108,Greater Than 75,75,"11-1,000"
+146,85344,40.41,26-55,63.08,56-75,2269,"1,001-5,000"
+147,85345,34.74,26-55,54.81,26-55,17338,"Greater Than 10,000"
+148,85346,38.17,26-55,43.14,26-55,1470,"1,001-5,000"
+149,85347,29.76,26-55,35.07,26-55,158,"11-1,000"
+150,85348,48.98,26-55,56.77,56-75,1394,"1,001-5,000"
+151,85349,44.28,26-55,78.5,Greater Than 75,5160,"5,001-10,000"
+152,85350,130.6,Greater Than 75,198.88,Greater Than 75,18756,"Greater Than 10,000"
+153,85351,69.53,56-75,68.36,56-75,20482,"Greater Than 10,000"
+154,85352,58.87,56-75,94.29,Greater Than 75,156,"11-1,000"
+155,85353,39.58,26-55,80.12,Greater Than 75,10080,"Greater Than 10,000"
+156,85354,20.42,11-25,38.79,26-55,1270,"1,001-5,000"
+157,85355,42.35,26-55,82.52,Greater Than 75,3749,"1,001-5,000"
+158,85356,33.7,26-55,46.46,26-55,1705,"1,001-5,000"
+159,85357,0,0,0,0,0,0
+160,85360,119.35,Greater Than 75,191.67,Greater Than 75,37,"11-1,000"
+161,85361,24.84,11-25,44.35,26-55,1481,"1,001-5,000"
+162,85362,22.28,11-25,32.32,26-55,162,"11-1,000"
+163,85363,38.44,26-55,52.96,26-55,1977,"1,001-5,000"
+164,85364,42.11,26-55,68.03,56-75,25328,"Greater Than 10,000"
+165,85365,43.14,26-55,61.07,56-75,17731,"Greater Than 10,000"
+166,85367,47.59,26-55,58.18,56-75,9027,"5,001-10,000"
+167,85373,59.26,56-75,69.31,56-75,9890,"5,001-10,000"
+168,85374,59.99,56-75,86.85,Greater Than 75,21211,"Greater Than 10,000"
+169,85375,78.14,Greater Than 75,77.92,Greater Than 75,21931,"Greater Than 10,000"
+170,85377,95.9,Greater Than 75,140.17,Greater Than 75,2439,"1,001-5,000"
+171,85378,43.31,26-55,70.96,56-75,3205,"1,001-5,000"
+172,85379,40.97,26-55,100.39,Greater Than 75,13575,"Greater Than 10,000"
+173,85381,45.61,26-55,70.83,56-75,9928,"5,001-10,000"
+174,85382,49.55,26-55,74.08,56-75,17420,"Greater Than 10,000"
+175,85383,57.05,56-75,113.09,Greater Than 75,26971,"Greater Than 10,000"
+176,85387,59.02,56-75,89.19,Greater Than 75,8273,"5,001-10,000"
+177,85388,41.27,26-55,104.56,Greater Than 75,8735,"5,001-10,000"
+178,85390,42.87,26-55,72.93,56-75,3812,"1,001-5,000"
+179,85392,38.58,26-55,79.05,Greater Than 75,11673,"Greater Than 10,000"
+180,85395,55.8,56-75,100.02,Greater Than 75,16754,"Greater Than 10,000"
+181,85396,59.63,56-75,127.88,Greater Than 75,13060,"Greater Than 10,000"
+182,85501,35.58,26-55,53.31,26-55,3960,"1,001-5,000"
+183,85530,,0,,0,0,0
+184,85531,51.01,26-55,113.16,Greater Than 75,101,"11-1,000"
+185,85532,5.56,1-10,12.5,11-25,17,"11-1,000"
+186,85533,45.92,26-55,69.97,56-75,1086,"1,001-5,000"
+187,85534,33.12,26-55,54.09,26-55,776,"11-1,000"
+188,85536,29.81,26-55,60,56-75,112,"11-1,000"
+189,85539,43.69,26-55,72.54,56-75,1518,"1,001-5,000"
+190,85540,48.01,26-55,50,26-55,1149,"1,001-5,000"
+191,85541,44.53,26-55,64.49,56-75,9428,"5,001-10,000"
+192,85542,,0,,0,0,0
+193,85543,51.6,26-55,83.03,Greater Than 75,1475,"1,001-5,000"
+194,85544,57.36,56-75,69.63,56-75,1459,"1,001-5,000"
+195,85545,40.82,26-55,56,56-75,249,"11-1,000"
+196,85546,29.05,26-55,59.31,56-75,4423,"1,001-5,000"
+197,85550,,0,,0,0,0
+198,85552,34.97,26-55,71.14,56-75,1705,"1,001-5,000"
+199,85553,54.98,26-55,83.22,Greater Than 75,629,"11-1,000"
+200,85554,30.8,26-55,50.69,26-55,162,"11-1,000"
+201,85601,46.99,26-55,73.8,56-75,336,"11-1,000"
+202,85602,36.73,26-55,59.85,56-75,3525,"1,001-5,000"
+203,85603,64.83,56-75,93.47,Greater Than 75,3708,"1,001-5,000"
+204,85605,57.26,56-75,75.58,Greater Than 75,276,"11-1,000"
+205,85606,21.34,11-25,29.05,26-55,267,"11-1,000"
+206,85607,62.69,56-75,87.76,Greater Than 75,9588,"5,001-10,000"
+207,85609,33.02,26-55,54.55,26-55,107,"11-1,000"
+208,85610,31.83,26-55,43.6,26-55,347,"11-1,000"
+209,85611,36.68,26-55,52.2,26-55,345,"11-1,000"
+210,85613,14.36,11-25,648,Greater Than 75,620,"11-1,000"
+211,85614,80.39,Greater Than 75,98.16,Greater Than 75,17775,"Greater Than 10,000"
+212,85615,40.33,26-55,64.47,56-75,3339,"1,001-5,000"
+213,85616,33.05,26-55,65.21,56-75,1468,"1,001-5,000"
+214,85617,40.98,26-55,68.24,56-75,359,"11-1,000"
+215,85618,42.31,26-55,69.97,56-75,566,"11-1,000"
+216,85619,60,56-75,100,Greater Than 75,27,"11-1,000"
+217,85620,67.44,56-75,78.35,Greater Than 75,464,"11-1,000"
+218,85621,74.67,56-75,91.7,Greater Than 75,12792,"Greater Than 10,000"
+219,85622,85.5,Greater Than 75,86.96,Greater Than 75,5555,"5,001-10,000"
+220,85623,49.86,26-55,87.97,Greater Than 75,2770,"1,001-5,000"
+221,85624,48.3,26-55,72.86,56-75,710,"11-1,000"
+222,85625,43.19,26-55,57.57,56-75,718,"11-1,000"
+223,85626,52.66,26-55,69.44,56-75,476,"11-1,000"
+224,85629,50.34,26-55,56.52,56-75,10360,"Greater Than 10,000"
+225,85630,31.2,26-55,45.54,26-55,696,"11-1,000"
+226,85631,34.14,26-55,55.2,56-75,1059,"1,001-5,000"
+227,85632,39.52,26-55,56.03,56-75,262,"11-1,000"
+228,85633,380,Greater Than 75,500,Greater Than 75,19,"11-1,000"
+229,85634,0,0,0,0,0,0
+230,85635,38.96,26-55,68.21,56-75,11157,"Greater Than 10,000"
+231,85637,56.4,56-75,92.86,Greater Than 75,566,"11-1,000"
+232,85638,42.59,26-55,69.44,56-75,719,"11-1,000"
+233,85639,,0,,0,0,0
+234,85640,35.8,26-55,40,26-55,29,"11-1,000"
+235,85641,48.81,26-55,78.97,Greater Than 75,10566,"Greater Than 10,000"
+236,85643,38.32,26-55,57.97,56-75,2630,"1,001-5,000"
+237,85645,54.51,26-55,97.99,Greater Than 75,979,"11-1,000"
+238,85646,108.41,Greater Than 75,153.24,Greater Than 75,1251,"1,001-5,000"
+239,85648,69.96,56-75,90.53,Greater Than 75,10616,"Greater Than 10,000"
+240,85650,49.47,26-55,88.31,Greater Than 75,5950,"5,001-10,000"
+241,85653,44.63,26-55,68.85,56-75,6261,"5,001-10,000"
+242,85658,67.14,56-75,86.11,Greater Than 75,8566,"5,001-10,000"
+243,85701,72.96,56-75,89.8,Greater Than 75,3248,"1,001-5,000"
+244,85704,61.84,56-75,79.76,Greater Than 75,17894,"Greater Than 10,000"
+245,85705,37.97,26-55,57.65,56-75,18159,"Greater Than 10,000"
+246,85706,40.06,26-55,71.54,56-75,16523,"Greater Than 10,000"
+247,85707,234.24,Greater Than 75,13887.5,Greater Than 75,2595,"1,001-5,000"
+248,85708,17.04,11-25,143.75,Greater Than 75,275,"11-1,000"
+249,85710,48.41,26-55,68.78,56-75,22681,"Greater Than 10,000"
+250,85711,49.8,26-55,70.28,56-75,16760,"Greater Than 10,000"
+251,85712,55.24,56-75,72.78,56-75,15160,"Greater Than 10,000"
+252,85713,42.1,26-55,66.59,56-75,17013,"Greater Than 10,000"
+253,85714,43.12,26-55,68.74,56-75,4452,"1,001-5,000"
+254,85715,59.65,56-75,83.99,Greater Than 75,10355,"Greater Than 10,000"
+255,85716,53.01,26-55,79.57,Greater Than 75,15201,"Greater Than 10,000"
+256,85718,76.71,Greater Than 75,94.01,Greater Than 75,19290,"Greater Than 10,000"
+257,85719,51.31,26-55,80.9,Greater Than 75,20858,"Greater Than 10,000"
+258,85730,43.95,26-55,69.22,56-75,13570,"Greater Than 10,000"
+259,85735,42.14,26-55,65.49,56-75,3853,"1,001-5,000"
+260,85736,26.22,26-55,45.01,26-55,1144,"1,001-5,000"
+261,85737,67.53,56-75,92.05,Greater Than 75,12780,"Greater Than 10,000"
+262,85739,62.69,56-75,82.26,Greater Than 75,10539,"Greater Than 10,000"
+263,85741,48.83,26-55,75.63,Greater Than 75,13955,"Greater Than 10,000"
+264,85742,55.94,56-75,80.53,Greater Than 75,13369,"Greater Than 10,000"
+265,85743,53.63,26-55,84.16,Greater Than 75,13455,"Greater Than 10,000"
+266,85745,57.87,56-75,91.57,Greater Than 75,18409,"Greater Than 10,000"
+267,85746,45.07,26-55,76.48,Greater Than 75,15276,"Greater Than 10,000"
+268,85747,50.78,26-55,97.52,Greater Than 75,10433,"Greater Than 10,000"
+269,85748,55.27,56-75,80.34,Greater Than 75,9198,"5,001-10,000"
+270,85749,63.44,56-75,94.12,Greater Than 75,10608,"Greater Than 10,000"
+271,85750,74.86,56-75,100,Greater Than 75,16649,"Greater Than 10,000"
+272,85755,77.02,Greater Than 75,99.17,Greater Than 75,11740,"Greater Than 10,000"
+273,85756,41.33,26-55,75.55,Greater Than 75,12347,"Greater Than 10,000"
+274,85757,44.9,26-55,71.02,56-75,6163,"5,001-10,000"
+275,85901,33.03,26-55,58.95,56-75,5445,"5,001-10,000"
+276,85911,,0,,0,0,0
+277,85920,65.85,56-75,118.38,Greater Than 75,243,"11-1,000"
+278,85922,61.54,56-75,125,Greater Than 75,1-10,1-10
+279,85923,23.68,11-25,52.63,26-55,81,"11-1,000"
+280,85924,18.19,11-25,32.69,26-55,513,"11-1,000"
+281,85925,25.04,26-55,54.73,26-55,969,"11-1,000"
+282,85927,63.97,56-75,100,Greater Than 75,87,"11-1,000"
+283,85928,13.33,11-25,20.26,11-25,117,"11-1,000"
+284,85929,32.09,26-55,61.7,56-75,2392,"1,001-5,000"
+285,85931,28.5,26-55,30.17,26-55,61,"11-1,000"
+286,85932,172.73,Greater Than 75,300,Greater Than 75,19,"11-1,000"
+287,85933,52.68,26-55,77.17,Greater Than 75,1417,"1,001-5,000"
+288,85934,84.44,Greater Than 75,208,Greater Than 75,152,"11-1,000"
+289,85935,38.2,26-55,64.99,56-75,1548,"1,001-5,000"
+290,85936,21.49,11-25,39.4,26-55,668,"11-1,000"
+291,85937,23.26,11-25,45.91,26-55,1506,"1,001-5,000"
+292,85938,26.5,26-55,50.34,26-55,579,"11-1,000"
+293,85939,20.24,11-25,49.01,26-55,617,"11-1,000"
+294,85940,484.62,Greater Than 75,946.43,Greater Than 75,441,"11-1,000"
+295,85942,28.21,26-55,81.82,Greater Than 75,22,"11-1,000"
+296,86001,41.56,26-55,79.08,Greater Than 75,14469,"Greater Than 10,000"
+297,86004,53.88,26-55,75.77,Greater Than 75,16945,"Greater Than 10,000"
+298,86005,57.79,56-75,89.65,Greater Than 75,6946,"5,001-10,000"
+299,86015,60.96,56-75,42.19,26-55,398,"11-1,000"
+300,86016,19.05,11-25,0,0,1-10,1-10
+301,86017,71.78,56-75,95.87,Greater Than 75,474,"11-1,000"
+302,86018,40.6,26-55,68.95,56-75,379,"11-1,000"
+303,86020,0,0,0,0,0,0
+304,86021,4.28,1-10,14.63,11-25,135,"11-1,000"
+305,86022,26.91,26-55,62.91,56-75,320,"11-1,000"
+306,86023,47.05,26-55,37.36,26-55,1159,"1,001-5,000"
+307,86024,55.95,56-75,59.8,56-75,423,"11-1,000"
+308,86025,26.65,26-55,50.12,26-55,1142,"1,001-5,000"
+309,86029,38.4,26-55,51.02,26-55,96,"11-1,000"
+310,86032,25.69,26-55,61.63,56-75,247,"11-1,000"
+311,86033,,0,,0,0,0
+312,86035,,0,,0,0,0
+313,86036,2.99,1-10,11.11,11-25,1-10,1-10
+314,86038,36,26-55,38.24,26-55,45,"11-1,000"
+315,86040,62.16,56-75,84.74,Greater Than 75,4121,"1,001-5,000"
+316,86042,,0,,0,0,0
+317,86043,0,0,0,0,0,0
+318,86044,,0,,0,0,0
+319,86045,0,0,0,0,0,0
+320,86046,28.89,26-55,48.78,26-55,1794,"1,001-5,000"
+321,86047,34.43,26-55,55.01,56-75,3046,"1,001-5,000"
+322,86052,20,11-25,0,0,1-10,1-10
+323,86054,,0,,0,0,0
+324,86301,54.6,26-55,84.51,Greater Than 75,11787,"Greater Than 10,000"
+325,86303,49.33,26-55,69.33,56-75,8256,"5,001-10,000"
+326,86305,49.89,26-55,79.45,Greater Than 75,9150,"5,001-10,000"
+327,86314,34.64,26-55,67.06,56-75,10897,"Greater Than 10,000"
+328,86315,47.78,26-55,91.42,Greater Than 75,3643,"1,001-5,000"
+329,86320,43.19,26-55,63.6,56-75,390,"11-1,000"
+330,86321,29.76,26-55,29.84,26-55,478,"11-1,000"
+331,86322,28.69,26-55,52.61,26-55,3056,"1,001-5,000"
+332,86323,30.79,26-55,51.09,26-55,4755,"1,001-5,000"
+333,86324,44.39,26-55,67.01,56-75,1936,"1,001-5,000"
+334,86325,40.62,26-55,77.25,Greater Than 75,1993,"1,001-5,000"
+335,86326,36.01,26-55,62.1,56-75,7323,"5,001-10,000"
+336,86327,41.33,26-55,68.46,56-75,4327,"1,001-5,000"
+337,86329,825,Greater Than 75,1350,Greater Than 75,264,"11-1,000"
+338,86331,36.7,26-55,54.36,26-55,189,"11-1,000"
+339,86332,18.12,11-25,26.09,26-55,346,"11-1,000"
+340,86333,24.45,11-25,38.49,26-55,1428,"1,001-5,000"
+341,86334,21.72,11-25,41.64,26-55,968,"11-1,000"
+342,86335,28.44,26-55,51.29,26-55,1252,"1,001-5,000"
+343,86336,47.25,26-55,72.66,56-75,5373,"5,001-10,000"
+344,86337,18.57,11-25,29.68,26-55,249,"11-1,000"
+345,86338,26.74,26-55,43.09,26-55,138,"11-1,000"
+346,86343,24.54,11-25,32.2,26-55,40,"11-1,000"
+347,86351,54.18,26-55,73.55,56-75,3421,"1,001-5,000"
+348,86401,32.71,26-55,59.76,56-75,7219,"5,001-10,000"
+349,86403,34.02,26-55,55.77,56-75,5042,"5,001-10,000"
+350,86404,37.85,26-55,65.06,56-75,5968,"5,001-10,000"
+351,86406,34.54,26-55,57.74,56-75,7721,"5,001-10,000"
+352,86409,26.06,26-55,46.09,26-55,6044,"5,001-10,000"
+353,86411,21.8,11-25,41.51,26-55,29,"11-1,000"
+354,86413,22.87,11-25,36.47,26-55,3251,"1,001-5,000"
+355,86426,30.12,26-55,51.01,26-55,3882,"1,001-5,000"
+356,86429,33.03,26-55,52.78,26-55,2033,"1,001-5,000"
+357,86432,11.86,11-25,21.66,11-25,393,"11-1,000"
+358,86433,13.14,11-25,63.16,56-75,18,"11-1,000"
+359,86434,29.41,26-55,100,Greater Than 75,1-10,1-10
+360,86435,0,0,0,0,0,0
+361,86436,22.55,11-25,32.12,26-55,474,"11-1,000"
+362,86437,6.21,1-10,9.59,1-10,11,"11-1,000"
+363,86438,31.4,26-55,50.98,26-55,211,"11-1,000"
+364,86440,29.04,26-55,48.25,26-55,1494,"1,001-5,000"
+365,86441,19.53,11-25,24.12,11-25,395,"11-1,000"
+366,86442,27.17,26-55,48.51,26-55,7922,"5,001-10,000"
+367,86443,4,1-10,5,1-10,1-10,1-10
+368,86444,34.27,26-55,49.25,26-55,450,"11-1,000"
+369,86445,12.73,11-25,20.45,11-25,42,"11-1,000"
+370,86502,34.12,26-55,47.1,26-55,265,"11-1,000"
+371,86503,,0,,0,0,0
+372,86505,12.4,11-25,36.62,26-55,54,"11-1,000"
+373,86507,,0,,0,0,0
+374,86511,0.19,1-10,0,0,1-10,1-10
+375,86514,,0,,0,0,0
+376,86515,0,0,0,0,0,0
+377,85045 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+378,85048 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+379,85121 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+380,85122 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+381,85128 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+382,85131 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+383,85132 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+384,85138 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+385,85139 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+386,85142 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+387,85143 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+388,85147 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+389,85172 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+390,85192 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+391,85193 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+392,85194 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+393,85201 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+394,85203 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+395,85213 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+396,85215 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+397,85226 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+398,85248 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+399,85249 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+400,85250 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+401,85251 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+402,85255 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+403,85256 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+404,85257 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+405,85258 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+406,85259 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+407,85264 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+408,85268 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+409,85281 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+410,85286 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+411,85298 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+412,85321 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+413,85322 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+414,85323 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+415,85326 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+416,85328 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+417,85337 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+418,85338 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+419,85339 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+420,85341 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+421,85344 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+422,85350 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+423,85353 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+424,85364 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+425,85365 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+426,85501 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+427,85530 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+428,85533 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+429,85536 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+430,85541 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+431,85542 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+432,85543 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+433,85545 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+434,85546 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+435,85550 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+436,85629 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+437,85633 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+438,85634 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+439,85639 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+440,85643 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+441,85653 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+442,85735 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+443,85736 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+444,85743 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+445,85746 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+446,85756 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+447,85757 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+448,85901 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+449,85911 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+450,85924 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+451,85925 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+452,85926 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+453,85928 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+454,85929 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+455,85930 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+456,85931 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+457,85933 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+458,85935 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+459,85938 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+460,85941 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+461,86001 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+462,86004 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+463,86016 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+464,86020 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+465,86021 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+466,86022 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+467,86023 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+468,86025 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+469,86030 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+470,86033 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+471,86034 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+472,86035 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+473,86036 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+474,86040 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+475,86042 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+476,86043 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+477,86044 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+478,86045 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+479,86046 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+480,86047 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+481,86052 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+482,86053 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+483,86054 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+484,86301 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+485,86303 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+486,86322 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+487,86324 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+488,86331 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+489,86335 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+490,86337 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+491,86401 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+492,86406 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+493,86426 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+494,86432 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+495,86434 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+496,86435 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+497,86436 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+498,86437 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+499,86440 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+500,86442 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+501,86444 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+502,86502 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+503,86503 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+504,86505 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+505,86507 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+506,86510 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+507,86511 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+508,86514 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+509,86515 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+510,86538 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
+511,86556 Tribal,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed,Data Suppressed
