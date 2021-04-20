@@ -6,7 +6,7 @@
 
 ### **Team Members** 
 
-* Jason Wang, Kellen Quinn, Ashley Patricia Parra (AP)
+* Jason Wang, Kellen Quinn, Ashley Patricia Parra (AP), Kimberly Norman
 
 ### **Research Questions to Answer**
 
@@ -25,3 +25,4 @@
 * Jason: 
 * Kellen: 
 * Ashley: 
+* Kimberly: 
