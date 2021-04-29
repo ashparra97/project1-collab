@@ -8,15 +8,17 @@
 
 * Jason Wang, Kellen Quinn, Ashley Patricia Parra (AP), Kimberly Norman
 
-### **Research Questions to Answer**
+### **Project Summary**
+Our intent with this project is to look at the spread of COVID and vaccination rate in the state of Arizona. We utilized AZDHS and Census.gov for our raw data and built our foundation based on the data we pulled. Below is the list of questions as well as a list of datasources we reviewed.
+
+#### **Research Questions to Answer**
 
 * What do covid case percentages look like compared to the percent of the population vaccinated?
 * Do wealthier zip codes have more access to the vaccine?
 * Are vaccines being distributed where the cases are highest?
 * What is the percent of vaccinations based on the ethnic groups in the 16+ population?
 
-
-### **Datasets to be Used**
+#### **Datasets to be Used**
 
 * IHME - https://covid19.healthdata.org/united-states-of-america/arizona?view=total-deaths&tab=trend
 * AZDHS - https://www.azdhs.gov/covid19/data/index.php
