@@ -16,7 +16,6 @@ Our intent with this project is to look at the spread of COVID and vaccination r
 * What do covid case percentages look like compared to the percent of the population vaccinated?
 * Do wealthier zip codes have more access to the vaccine?
 * Are vaccines being distributed where the cases are highest?
-* What is the percent of vaccinations based on the ethnic groups in the 16+ population?
 
 #### **Datasets to be Used**
 
@@ -27,18 +26,11 @@ Our intent with this project is to look at the spread of COVID and vaccination r
 * AZ Race/Ethinic data - https://covidtracking.com/data/download/arizona-race-ethnicity-historical.csv
 * AZ History data - https://covidtracking.com/data/download/arizona-history.csv
 
-
-### **Project Description/Outline**
-
-* We want to analyze the distribution of covid vaccines in Maricopa County and break down things such as access by zip code, COVID case count, etc.
-
 ### **Rough Breakdown of Tasks**
 
-* Jason: 
-* Kellen: 
-* Ashley: 
-* Kimberly: 
-
-#
+* Jason: Overview graphs and maps
+* Kellen: Question 2 and corresponding graphs/maps
+* Ashley: Question 1 and corresponding graphs/maps
+* Kimberly: Question 3 and corresponding graphs/maps
 
 #### Presentation Link: https://docs.google.com/presentation/d/1yILQMSOBK6ME8tvIAstMuL67o0LaNVKKw1JVK3N4XAc/edit?usp=sharing
